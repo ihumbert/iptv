@@ -5,13 +5,13 @@
 
 🌏播放源
 
-https://lqtv.github.io/m3u/tv.m3u](https://raw.githubusercontent.com/ihumbert/iptv/main/allinone.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/allinone.m3u
 
-https://lqtv.github.io/m3u/tv.m3u](https://raw.githubusercontent.com/ihumbert/iptv/main/CCTV.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/CCTV.m3u
 
-https://lqtv.github.io/m3u/tv.m3u](https://raw.githubusercontent.com/ihumbert/iptv/main/CNTV.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/CNTV.m3u
 
-https://lqtv.github.io/m3u/tv.m3u](https://raw.githubusercontent.com/ihumbert/iptv/main/newyearparty.txt
+https://raw.githubusercontent.com/ihumbert/iptv/main/newyearparty.txt
 
 📒节目单
 
