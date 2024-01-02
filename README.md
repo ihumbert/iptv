@@ -5,13 +5,15 @@
 
 🌏播放源
 
-https://raw.githubusercontent.com/ihumbert/iptv/main/allinone.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/m3u/allinone.m3u
 
-https://raw.githubusercontent.com/ihumbert/iptv/main/CCTV.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/m3u/GSYD-IPV6.m3u
 
-https://raw.githubusercontent.com/ihumbert/iptv/main/CNTV.m3u
+https://raw.githubusercontent.com/ihumbert/iptv/main/m3u/CCTV.m3u
 
-https://raw.githubusercontent.com/ihumbert/iptv/main/newyearparty.txt
+https://raw.githubusercontent.com/ihumbert/iptv/main/m3u/CNTV.m3u
+
+https://raw.githubusercontent.com/ihumbert/iptv/main/txt/newyearparty.txt
 
 📒节目单
 
