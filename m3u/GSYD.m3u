@@ -245,5 +245,4 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226147/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226138/1.m3u8
 #EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="其他",BesTV[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226136/1.m3u8
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",CETV-4 中国教育4台[1280x576]
-http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226279/1.m3u8
+
