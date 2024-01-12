@@ -1,9 +1,9 @@
 🌙卫视频道
 #EXTM3U
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
