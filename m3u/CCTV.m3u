@@ -152,11 +152,4 @@ https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13新闻高清
 https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14少儿高清
-https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15音乐高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17农业农村高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-
+https://live.goodiptv.club/api/cqyx.php?id=cctvseH
