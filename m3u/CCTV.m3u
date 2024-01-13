@@ -123,33 +123,3 @@ https://live.metshop.top/hbgd.php?id=cctv16hd_3000
 https://live.metshop.top/hbgd.php?id=cctv14hd_3000
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 https://live.metshop.top/hbgd.php?id=cctvnews_1000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3综艺高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4中文国际高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5P高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6电影高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7国防军事高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8电视剧高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9纪录高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10科教高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11戏曲高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12社会与法高清
-https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13新闻高清
-https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14少儿高清
-https://live.goodiptv.club/api/cqyx.php?id=cctvseH
