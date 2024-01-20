@@ -1,4 +1,4 @@
-央视频道
+央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -41,7 +41,7 @@ CGTN俄语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-卫视频道
+卫视频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -115,7 +115,7 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-NewTV系列
+NewTV系列,#genre#
 超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -133,7 +133,7 @@ NewTV系列
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-成人频道
+成人频道,#genre#
 Live Cams,http://live.adultiptv.net/livecams.m3u8
 MILF,http://live.adultiptv.net/milf.m3u8
 Big Dick,http://live.adultiptv.net/bigdick.m3u8
@@ -159,11 +159,11 @@ Brunette,http://live.adultiptv.net/brunette.m3u8
 Blonde,http://live.adultiptv.net/blonde.m3u8
 Gay,http://live.adultiptv.net/gay.m3u8
 Asian,http://live.adultiptv.net/asian.m3u8
-兔子先生
+兔子先生,#genre#
 成人视频高中生上門援交/TZ-083,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
 萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
 成人视频街頭搭訕女大學生拍攝AV/TZ-001,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
-成人视频
+成人视频,#genre#
 7月-703ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
 7月-731水戸,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
 7月-743大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
