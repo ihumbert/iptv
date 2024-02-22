@@ -214,8 +214,8 @@ INSTALL() {
   fi
   # remove temp
   rm -f /tmp/clouddrive*
-  if [ ! -d "/storage//storage//CloudNAS" ]; then
-      mkdir "/storage//storage//CloudNAS"
+  if [ ! -d "/storage/CloudNAS" ]; then
+      mkdir "/storage/CloudNAS"
   fi
 }
 
@@ -241,8 +241,8 @@ DOCKER() {
     --name clouddrive \
     --restart unless-stopped \
     --env CLOUDDRIVE_HOME=/Config \
-    -v /storage//storage//CloudNAS:/storage//storage//CloudNAS:shared \
-    -v /Config:/Config \
+    -v /storage/CloudNAS:/CloudNAS:shared \
+    -v /storage/CloudNAS/Config:/Config \
     -v /media:/media:shared \
     --network host \
     --pid host \
