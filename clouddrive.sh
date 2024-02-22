@@ -243,7 +243,7 @@ DOCKER() {
     --env CLOUDDRIVE_HOME=/Config \
     -v /storage/CloudNAS:/CloudNAS:shared \
     -v /storage/CloudNAS/Config:/Config \
-    -v /media:/media:shared \
+    -v /storage/CloudNAS/Config/media:/media:shared \
     --network host \
     --pid host \
     --privileged \
