@@ -1,4 +1,9 @@
+
 #EXTM3U
+#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
+https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
+https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226153/1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合[1920x1080]
@@ -241,4 +246,31 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226147/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226138/1.m3u8
 #EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="其他",BesTV[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226136/1.m3u8
-
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",CETV-4 中国教育4台[1280x576]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226279/1.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226452/1.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226444/1.m3u8
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226543/1.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226440/1.m3u8
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视[768x576]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226701/1.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226549/1.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226446/1.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视[720x675]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226545/1.m3u8
+#EXTINF:-1,tvg-id="安多卫视[768x576]" tvg-name="安多卫视[768x576]" tvg-logo="https://epg.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视[768x576]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226405/1.m3u8
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226448/1.m3u8
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226699/1.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通[720x540]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226703/1.m3u8
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视藏语[768x576]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226350/1.m3u8
